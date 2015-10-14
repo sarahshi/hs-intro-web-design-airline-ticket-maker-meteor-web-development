@@ -70,6 +70,5 @@ Using the variables you created and your expertise with the `replace` function, 
 If you've made this far, here are some additional challenges for you to complete:
 
 1.  What if the airlines decide to print the passenger names in all caps?
-2.  Now that it's in all caps, they decide they want to print the names in lower case letters, how can you fix that?
-3. What if they want to add the flight departure time to the ticket?
+2. What if they want to add the flight departure time to the ticket?
 
