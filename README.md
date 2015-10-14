@@ -59,17 +59,13 @@ Now your mom needs to book a flight. Copy the ticket template into `js/ticket.js
 var ticket_template = "Joe Shmoe flying on Fancy Airlines Flight Number 000 arriving at Fancy Destination at 2400 hours. The flight will depart from gate 100.
 ```
 
-Next, assign the following content from the original ticket to variables:
-
-Now that we have the original information, it's time to change the value of these variables to reflect your mom's information. Your mom plans to fly to San Francisco on United Airlines on December 15. Her flight will arrive at 10:15am. The flight will take off from Gate A62. Create variables( `name`, `airline`, `flight_number`, `flight_destination`, `flight_arrival_time`, `gate`).
-
+Now that we have the original information, it's time to change the value of these variables to reflect your mom's information. Your mom plans to fly to San Francisco on United Airlines. Her flight will arrive at 10:15am. The flight will take off from Gate A62. Create variables( `name`, `airline`, `flight_number`, `flight_destination`, `flight_arrival_time`, `gate`).
 
 Using the variables you created and your expertise with the `replace` function, switch out the template for your mother's information. 
 
 ### S-T-R-E-T-C-H Challenges!
 If you've made this far, here are some additional challenges for you to complete:
 
-1.  What if the airlines decide to print the passenger names in all caps?
-2.  Now that it's in all caps, they decide they want to print the names in lower case letters, how can you fix that?
-3. What if they want to add the flight departure time to the ticket?
+1. What if the airlines decide to print the passenger names in all caps?
+2. What if they want to add the flight departure time to the ticket?
 
