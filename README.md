@@ -6,7 +6,7 @@ It's time to take a flight! The airlines need all sorts of information from you 
 
 How can you automate this task? There are the few ways we can do this...
 
-#### repace
+#### replace
 The `replace` method is a handy JavaScript tool that allows you to replace a word or letter for another word or letter within a string. That means *every time the word or letter appears in the string, it will be substituted out.* Let's take a look at how that works.
 
 We have a fact about Harry Potter assigned to a variable `wrong_fact`:
