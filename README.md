@@ -1,6 +1,6 @@
 # Airline Ticket Maker
 
-<img src="https://s3.amazonaws.com/after-school-assets/airline-boarding-pass-ticket-isolated-over-white-shadow-background-31428164.jpg" width="300" align="left" hspace="10">
+<img src="https://s3.amazonaws.com/after-school-assets/airline-boarding-pass-ticket-isolated-over-white-shadow-background-31428164.jpg" width="300" align="right" hspace="10">
 
 It's time to take a flight! The airlines need all sorts of information from you in order to print out your ticket. Airlines use the same template for each ticket, and just plug in different data from each user. 
 
@@ -61,7 +61,7 @@ var ticket_template = "Joe Shmoe flying on Fancy Airlines Flight Number 000 arri
 
 Next, assign the following content from the original ticket to variables:
 
-Now that we have the original information, it's time to change the value of these variables to reflect your mom's information. Your mom plans to fly to San Francisco on United Airlines on December 15. Her flight will arrive at 10:15am. The flight will take off from Gate A62. Create variables( `name`, `airline`, `flight_number`, `flight_destination`, `flight_arrival_time`, `gate`).
+Now that we have the original information, it's time to change the value of these variables to reflect your mom's information. Your mom plans to fly to San Francisco on United Airlines on December 15. Her flight will arrive at 10:15am. The flight will take off from Gate A62. Create variables(`name`, `airline`, `flight_number`, `flight_destination`, `flight_arrival_time`, `gate`).
 
 
 Using the variables you created and your expertise with the `replace` function, switch out the template for your mother's information. 
