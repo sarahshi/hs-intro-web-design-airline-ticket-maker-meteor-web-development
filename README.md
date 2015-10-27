@@ -24,11 +24,11 @@ The `return value` (aka what this action produces after it's called) will be "Ha
 
 ### Chaining replaces
 
-What if you have a sentence that you want to substitute more than one word in? We can do that by calling `gsub` more than once on the same line, through a process called `method chaining` in which you *call one method right after another*. Take a look:
+What if you have a sentence that you want to substitute more than one word in? We can do that by calling `replace` more than once on the same line, through a process called `method chaining` in which you *call one method right after another*. Take a look:
 
 ```js
 var wrong_fact = "Hermione has 4 siblings.";
-var true_fact = wrong_fact.gsub("Hermione", "Ron").gsub("4", "6");
+var true_fact = wrong_fact.replace("Hermione", "Ron").replace("4", "6");
 ```
 
 
