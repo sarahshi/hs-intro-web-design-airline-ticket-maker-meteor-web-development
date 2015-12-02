@@ -72,3 +72,5 @@ If you've made this far, here are some additional challenges for you to complete
 1.  What if the airlines decide to print the passenger names in all caps?
 2. What if they want to add the flight departure time to the ticket?
 
+
+<a href='https://learn.co/lessons/hs-intro-web-design-airline-ticket-maker' data-visibility='hidden'>View this lesson on Learn.co</a>
