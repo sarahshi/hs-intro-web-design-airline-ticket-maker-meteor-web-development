@@ -73,4 +73,4 @@ If you've made this far, here are some additional challenges for you to complete
 2. What if they want to add the flight departure time to the ticket?
 
 
-<a href='https://learn.co/lessons/hs-intro-web-design-airline-ticket-maker' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-intro-web-design-airline-ticket-maker' title='Airline Ticket Maker'>Airline Ticket Maker</a> on Learn.co and start learning to code for free.</p>
